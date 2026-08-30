@@ -1,6 +1,6 @@
-# Mídias Digitais — Fundação Eufraten
+# Mídias Digitais — Projeto Profissional | 2025
 
-Repositório pedagógico da Oficina de Mídias Digitais da Fundação Eufraten.
+Registro pedagógico e profissional de um projeto real de Mídias Digitais desenvolvido em 2025.
 
 Reúne planejamento, módulos, Sprints, planos de aula, materiais didáticos, instrumentos de avaliação e orientações para manutenção do acervo pedagógico.
 
@@ -27,7 +27,7 @@ Reúne planejamento, módulos, Sprints, planos de aula, materiais didáticos, in
 └── docs/                   # avaliação e sínteses
 ```
 
-## Segundo semestre de 2025
+## Projeto profissional — Segundo semestre de 2025
 
 O percurso inicia em **15/09/2025**, com revisão diagnóstica do primeiro semestre, e segue aulas às segundas e sextas-feiras até 19/12/2025. A sequência integra design, comunicação visual, storytelling, audiovisual, Inteligência Artificial e portfólio.
 
