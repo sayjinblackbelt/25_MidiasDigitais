@@ -40,3 +40,12 @@ Aprendizagem prática, projetos, feedback, revisão e apresentação de resultad
 ## Privacidade
 
 O repositório é público. Não publicar dados pessoais, avaliações individuais, fotos identificáveis, credenciais ou documentos sensíveis.
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/25_MidiasDigitais
